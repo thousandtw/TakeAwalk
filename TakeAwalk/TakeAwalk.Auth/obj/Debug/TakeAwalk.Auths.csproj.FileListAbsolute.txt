@@ -1,0 +1,15 @@
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.Auth.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.Auth.pdb
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.dbSource.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.ORM.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\EntityFramework.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.dbSource.pdb
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.dbSource.dll.config
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.ORM.pdb
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\TakeAwalk.ORM.dll.config
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\bin\Debug\EntityFramework.xml
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\obj\Debug\TakeAwalk.Auths.csproj.CoreCompileInputs.cache
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\obj\Debug\TakeAwalk.Auths.csproj.CopyComplete
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\obj\Debug\TakeAwalk.Auth.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\obj\Debug\TakeAwalk.Auth.pdb
+D:\TakeAwalk\TakeAwalk\TakeAwalk.Auth\obj\Debug\TakeAwalk.Auths.csproj.AssemblyReference.cache

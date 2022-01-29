@@ -1,0 +1,14 @@
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\TakeAwalk.ORM.dll.config
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\TakeAwalk.ORM.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\TakeAwalk.ORM.pdb
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\EntityFramework.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\EntityFramework.xml
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\obj\Debug\TakeAwalk.ORM.csproj.AssemblyReference.cache
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\obj\Debug\TakeAwalk.ORM.csproj.CoreCompileInputs.cache
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\obj\Debug\TakeAwalk.ORM.csproj.CopyComplete
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\obj\Debug\TakeAwalk.ORM.dll
+D:\TakeAwalk\TakeAwalk\TakeAwalk.ORM\obj\Debug\TakeAwalk.ORM.pdb
